@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wh+u5jMk1Qrnik65pRqkXQ0eoDEA4B5wrK7mO+7ILaLAFI4T0gG8tX0dluV2nQ4mKPXSezpliW1xofV2BFWxng==",
+  "success": true,
+  "projectFilePath": "H:\\c# Proje\\Nlog\\MyNLog\\MyNLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC Cypher\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\PC Cypher\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\PC Cypher\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\PC Cypher\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\PC Cypher\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\PC Cypher\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\PC Cypher\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\PC Cypher\\.nuget\\packages\\nlog\\4.7.10\\nlog.4.7.10.nupkg.sha512",
+    "C:\\Users\\PC Cypher\\.nuget\\packages\\nlog.config\\4.7.10\\nlog.config.4.7.10.nupkg.sha512",
+    "C:\\Users\\PC Cypher\\.nuget\\packages\\nlog.schema\\4.7.10\\nlog.schema.4.7.10.nupkg.sha512"
+  ],
+  "logs": []
+}
